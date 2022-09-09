@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body {
+    background-color: #000000;
+    color:pink;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: rgb(167, 163, 255);
+    color: #eef;
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 100%;
+    text-shadow: 3px 3px 5px #aeadad;
+}
+
+h2 {
+    background-color: hsl(243, 100%, 82%);
+    font-family: Georgia, "Georgia", serif;
+    text-align: center;
+}
+
+p {
+    font-size: 0.75em;
+    text-indent: 5em;
+   }
+   
+ul {
+    font-weight: italic;
+}
+
+footer {
+    font-family: 'Arial', Courier, monospace;
+    color: #333333;
+    font-size: 0.95em;
+    font-style: italic;
+}
