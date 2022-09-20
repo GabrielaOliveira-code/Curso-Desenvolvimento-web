@@ -1,0 +1,24 @@
+p::before {
+    content: "Leia isso - ";
+}
+
+p::after {
+    content: " - Leia Mais";
+}
+
+p::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+    }
+  
+    #first::first-line{
+        background-color: hotpink;
+        
+    }
+
+    p::selection{
+        color: aliceblue;
+        background-color: hotpink;
+    }
+
+ 
